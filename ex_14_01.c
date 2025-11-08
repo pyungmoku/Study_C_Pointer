@@ -28,6 +28,4 @@ void main()
     printData(data1);    // 전역 구조체 변수 data1을 값으로 전달(구조체 복사)하고 멤버를 출력
     printData(data2);    // 전역 구조체 변수 data2을 값으로 전달(구조체 복사)하고 멤버를 출력
     printData(data3);    // 지역 구조체 변수 data3을 값으로 전달(구조체 복사)하고 멤버를 출력
-
-
 }

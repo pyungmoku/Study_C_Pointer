@@ -1,1 +1,1 @@
-# Study_C_Pointer
+# 이곳은 C Pointer를 공부한다.
